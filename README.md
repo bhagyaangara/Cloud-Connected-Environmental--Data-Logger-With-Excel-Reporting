@@ -160,12 +160,11 @@ Cloud Connected Environmental Data Logger with Excel Reporting/
 
 ### 🖥️ Normal Monitoring
 
-During normal operation, the system continuously monitors the environmental conditions and displays the *temperature and smoke level* on the 16×2 LCD.
+During normal operation, the system continuously monitors the environmental conditions and displays the **temperature and smoke level** on the 16×2 LCD.
 
 <p align="center">
   <img src="./cloud%20connected%20environmental%20data%20logger%20with%20excel%20reporting/images/normal_monitoring.jpeg" alt="Normal Monitoring" width="700">
 </p>
-
 ### 🌡️ Temperature Monitoring
 
 When the measured temperature exceeds the configured temperature setpoint, the system detects the abnormal condition and provides an alert.
@@ -226,9 +225,9 @@ The ESP-01 Wi-Fi module communicates with the LPC2148 through UART and provides 
 
 ## 👩‍💻 Author
 
-*Srividya Kukkala*
+*Naga Bhagya Lakshmi *
 
-Electronics and Communication Engineering (ECE)
+Electrical Electronics Engineering (EEE)
 
 ### 🔧 Technical Skills
 
